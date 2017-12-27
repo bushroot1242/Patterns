@@ -1,0 +1,7 @@
+C:\Users\dilmukhametovir\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\dilmukhametovir\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\dilmukhametovir\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\dilmukhametovir\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\dilmukhametovir\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\dilmukhametovir\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\dilmukhametovir\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
